@@ -1,0 +1,271 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="AAROH.com" resolutions="1x" timestamp="1610831773468">
+  <folder name="css">
+    <file name="site_global.css" crc="4055221567"/>
+    <file name="speach-therapy.css" crc="271269532" ref="speach-therapy"/>
+    <file name="about-us.css" crc="4061548189" ref="about-us"/>
+    <file name="iefonts_about-us.css" crc="3883350882" ref="about-us"/>
+    <file name="contact.css" crc="333366854" ref="contact"/>
+    <file name="caloric-testing.css" crc="3863176502" ref="caloric-testing"/>
+    <file name="index.css" crc="352842988" ref="index"/>
+    <file name="iefonts_index.css" crc="4120396509" ref="index"/>
+    <file name="instruments.css" crc="4047076806" ref="instruments"/>
+    <file name="gallery.css" crc="495403179" ref="gallery"/>
+    <file name="bera-test.css" crc="506963896" ref="bera-test"/>
+    <file name="audiogram.css" crc="482211499" ref="audiogram"/>
+    <file name="services.css" crc="495403179" ref="services"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-us:services:instruments:contact:gallery:audiogram:bera-test:caloric-testing:speach-therapy"/>
+    <file name="museutils.js" crc="3939489907" ref="index:about-us:services:instruments:contact:gallery:audiogram:bera-test:caloric-testing:speach-therapy"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-us:services:instruments:contact:gallery:audiogram:bera-test:caloric-testing:speach-therapy"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:about-us:services:instruments:contact:gallery:audiogram:bera-test:caloric-testing:speach-therapy"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:about-us:instruments:contact:audiogram:bera-test:caloric-testing:speach-therapy"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:about-us:instruments:contact:audiogram:bera-test:caloric-testing:speach-therapy"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:about-us:services:instruments:contact:gallery:audiogram:bera-test:caloric-testing:speach-therapy"/>
+    <file name="webpro.js" crc="3856315280" ref="index:instruments:audiogram"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:instruments:audiogram"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:instruments:audiogram"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:instruments:audiogram"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="index"/>
+    <file name="form_check.php" crc="4108222811" ref="index"/>
+    <file name="form_throttle.php" crc="503802655" ref="index"/>
+    <file name="form_process.php" crc="260214869" ref="index"/>
+    <file name="form-u96.php" crc="4231722006" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-us:services:instruments:contact:gallery:audiogram:bera-test:caloric-testing:speach-therapy"/>
+    <file name="require.js" crc="4177726516" ref="index:about-us:services:instruments:contact:gallery:audiogram:bera-test:caloric-testing:speach-therapy"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="317533591" ref="index"/>
+    <file name="logoaaroh-u355-fr.png" crc="4029462789" ref="index:about-us:instruments:audiogram:bera-test:caloric-testing:speach-therapy"/>
+    <file name="mobile-phone.png" crc="4161172367" ref="index:about-us:instruments:contact:audiogram:bera-test:caloric-testing:speach-therapy">
+      <caption webpage="instruments" alt=""/>
+      <caption webpage="bera-test" alt=""/>
+      <caption webpage="caloric-testing" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="audiogram" alt=""/>
+      <caption webpage="speach-therapy" alt=""/>
+    </file>
+    <file name="arrowmenudown.png" crc="262559161" ref="index:about-us:instruments:contact:audiogram:bera-test:caloric-testing:speach-therapy">
+      <caption webpage="instruments" alt=""/>
+      <caption webpage="bera-test" alt=""/>
+      <caption webpage="caloric-testing" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="audiogram" alt=""/>
+      <caption webpage="speach-therapy" alt=""/>
+    </file>
+    <file name="dribble28x28.jpg" crc="3900312861" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook28x28.jpg" crc="3814358492" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="linkedin28x28.jpg" crc="4032340596" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rss.png" crc="4144695932" seo="true" ref="index:audiogram">
+      <caption webpage="index" alt=""/>
+      <caption webpage="audiogram" alt=""/>
+    </file>
+    <file name="pinterest28x28.jpg" crc="340003248" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter28x28.jpg" crc="462041627" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b2.jpg" crc="59234964" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siemens-list-img.jpg" crc="4188576852" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="d3.jpg" crc="293445522" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aarohbanner.jpg" crc="4223701369" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="comtest-u278-fr.jpg" crc="198346863" ref="index"/>
+    <file name="childht.jpg" crc="239671239" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slt-u280-fr.jpg" crc="4252552421" ref="index"/>
+    <file name="cohi.jpg" crc="3801863662" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="orange-bg.png" crc="4194313429" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="question_normal.png" crc="3959076316" ref="index">
+      <caption webpage="index" alt="Computerized Hearing Testing "/>
+      <caption webpage="index" alt="Computerized Hearing Testing "/>
+      <caption webpage="index" alt="Computerized Hearing Testing "/>
+      <caption webpage="index" alt="Child Hearing Testing"/>
+      <caption webpage="index" alt="Child Hearing Testing"/>
+      <caption webpage="index" alt="Child Hearing Testing"/>
+      <caption webpage="index" alt="Speech &amp; Language Therapy "/>
+      <caption webpage="index" alt="Speech &amp; Language Therapy "/>
+      <caption webpage="index" alt="Speech &amp; Language Therapy "/>
+      <caption webpage="index" alt="Cochler Implants "/>
+      <caption webpage="index" alt="Cochler Implants "/>
+      <caption webpage="index" alt="Cochler Implants "/>
+    </file>
+    <file name="question.jpg" crc="3802219672" ref="index">
+      <caption webpage="index" alt="Computerized Hearing Testing "/>
+      <caption webpage="index" alt="Child Hearing Testing"/>
+      <caption webpage="index" alt="Speech &amp; Language Therapy "/>
+      <caption webpage="index" alt="Cochler Implants "/>
+    </file>
+    <file name="checkbox.png" crc="4258989587" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="d20.jpg" crc="4135140014" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="testimonials.png" crc="4083760234" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gs dasd.jpg" crc="318911342" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dagaraddddd.jpg" crc="4206064890" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arun giris.jpg" crc="3844112333" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k acharyaa.jpg" crc="4085837966" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hajra madam1.jpg" crc="163214164" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sagar mohapatrac.jpg" crc="531118748" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rk sahood.jpg" crc="298438317" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arun singhd.jpg" crc="74201040" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bharat behera uroc.jpg" crc="3797338814" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logoaaroh.png" crc="455027711" ref="index:about-us:instruments:contact:audiogram:bera-test:caloric-testing:speach-therapy">
+      <caption webpage="instruments" alt=""/>
+      <caption webpage="bera-test" alt=""/>
+      <caption webpage="caloric-testing" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="audiogram" alt=""/>
+      <caption webpage="speach-therapy" alt=""/>
+    </file>
+    <file name="maibnn.jpg" crc="303156787" ref="index:about-us:instruments:contact:audiogram:bera-test:caloric-testing:speach-therapy">
+      <caption webpage="instruments" alt=""/>
+      <caption webpage="bera-test" alt=""/>
+      <caption webpage="caloric-testing" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="audiogram" alt=""/>
+      <caption webpage="speach-therapy" alt=""/>
+    </file>
+    <file name="purple-bg.png" crc="4028653270" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rplexpng.png" crc="3904316786" ref="index:about-us:instruments:contact:audiogram:bera-test:caloric-testing:speach-therapy">
+      <caption webpage="instruments" alt=""/>
+      <caption webpage="bera-test" alt=""/>
+      <caption webpage="caloric-testing" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="audiogram" alt=""/>
+      <caption webpage="speach-therapy" alt=""/>
+    </file>
+    <file name="speech-therapyd1.jpg" crc="292461746" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="caduceus-2730761.svg" crc="309921391" ref="about-us"/>
+    <file name="caduceus-2730761_poster_u7068.png" crc="4119534440" ref="about-us"/>
+    <file name="prasannajit.jpg" crc="207447990" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="d2.jpg" crc="4226219591" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="earwithh.jpg" crc="111970245" seo="true" ref="instruments:audiogram">
+      <caption webpage="instruments" alt=""/>
+      <caption webpage="audiogram" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="instruments:audiogram"/>
+    <file name="gtgt.jpg" crc="262411021" seo="true" ref="instruments:audiogram">
+      <caption webpage="instruments" alt=""/>
+      <caption webpage="audiogram" alt=""/>
+    </file>
+    <file name="yearhe.jpg" crc="4076658634" seo="true" ref="instruments:audiogram">
+      <caption webpage="instruments" alt=""/>
+      <caption webpage="audiogram" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="instruments:audiogram"/>
+    <file name="presentation1.jpg" crc="3776037735" ref="instruments">
+      <caption webpage="instruments" alt=""/>
+    </file>
+    <file name="logoaaroh-u1466-fr.png" crc="3770729075" ref="contact"/>
+    <file name="d11.jpg" crc="303123285" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="u1606-4.png" crc="4145130867" ref="contact"/>
+    <file name="u1619-4.png" crc="4119139321" ref="contact"/>
+    <file name="u1630-4.png" crc="3844100532" ref="contact"/>
+    <file name="u1599-4.png" crc="4186244881" ref="contact"/>
+    <file name="sound-1781569_1280.png" crc="3851154604" ref="bera-test">
+      <caption webpage="bera-test" alt=""/>
+    </file>
+    <file name="u4099-4.png" crc="507768678" ref="bera-test"/>
+    <file name="secret-3650080_1280-u4077.png" crc="3847361125" ref="bera-test"/>
+    <file name="pasted image 377x282.jpg" crc="286548605" seo="true" ref="bera-test">
+      <caption webpage="bera-test" alt=""/>
+    </file>
+    <file name="oto_caloric_work_banner.jpg" crc="4149897212" ref="caloric-testing">
+      <caption webpage="caloric-testing" alt=""/>
+    </file>
+    <file name="u4527-4.png" crc="251969607" ref="caloric-testing"/>
+    <file name="vestibulo_ocular_reflex.jpg" crc="4193904810" ref="caloric-testing">
+      <caption webpage="caloric-testing" alt=""/>
+    </file>
+    <file name="ddrdrdreeeee.jpg" crc="3784946898" ref="speach-therapy">
+      <caption webpage="speach-therapy" alt=""/>
+    </file>
+    <file name="u4787-4.png" crc="148314690" ref="speach-therapy"/>
+    <file name="1527682564ear surgery-02.jpg" crc="9680052" ref="speach-therapy">
+      <caption webpage="speach-therapy" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3871313424" seo="true" mt="1610830559124" redirect="true"/>
+  <file name="about-us.html" crc="3878987383" seo="true" mt="1610831672803" redirect="true"/>
+  <file name="services.html" crc="123266295" seo="true" mt="1610805508656" redirect="false"/>
+  <file name="instruments.html" crc="508902473" seo="true" mt="1610805508632" redirect="true"/>
+  <file name="contact.html" crc="124565668" seo="true" mt="1610805508486" redirect="true"/>
+  <file name="gallery.html" crc="404185237" seo="true" mt="1610777860068" redirect="false"/>
+  <file name="audiogram.html" crc="3935417672" seo="true" mt="1610805508504" redirect="true"/>
+  <file name="bera-test.html" crc="96113513" seo="true" mt="1610805508509" redirect="true"/>
+  <file name="caloric-testing.html" crc="4143654456" seo="true" mt="1610805508515" redirect="true"/>
+  <file name="speach-therapy.html" crc="4251030606" seo="true" mt="1610805508552" redirect="true"/>
+</manifest>
